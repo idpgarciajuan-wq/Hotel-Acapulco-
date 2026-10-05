@@ -1,0 +1,4 @@
+HOTEL ACAPULCO · SITIO WEB (listo para Vercel)
+Despliegue: en esta carpeta ejecuta  npx vercel --prod
+(o sube la carpeta a GitHub e impórtala en vercel.com/new; no requiere build).
+Datos de contacto: site-config.js
